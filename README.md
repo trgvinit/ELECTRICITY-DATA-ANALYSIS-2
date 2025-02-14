@@ -26,5 +26,5 @@ This project analyzes electricity price and demand trends using Python, Pandas, 
 - Use machine learning to predict electricity prices.
 
 ## 🔹 Author
-👨‍💻 **[Your Name]**  
+👨‍💻 **Malgunde Vinit Sunil**  
 🔗 **GitHub:** [Your Profile Link]  
