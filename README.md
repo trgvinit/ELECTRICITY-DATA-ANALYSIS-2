@@ -27,4 +27,4 @@ This project analyzes electricity price and demand trends using Python, Pandas, 
 
 ## 🔹 Author
 👨‍💻 **Malgunde Vinit Sunil**  
-🔗 **GitHub:** [Your Profile Link]  
+🔗 **GitHub:** https://github.com/trgvinit  
